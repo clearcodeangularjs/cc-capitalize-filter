@@ -2,7 +2,7 @@
   "name": "capitalize-filter",
   "description": "Filter for capitalizing string.",
   "authors": [
-  "ClearCode (http://clearcode.cc)",
+  "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
   "main": "Capitalize.js",
