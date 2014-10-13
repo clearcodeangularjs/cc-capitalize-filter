@@ -1,7 +1,7 @@
 Clearcode Capitalize filter
 =========
 
-Filters than capitalize first word.
+Filters that capitalize first word.
 
 Installation
 --------------
