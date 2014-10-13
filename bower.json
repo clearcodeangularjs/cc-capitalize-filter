@@ -4,6 +4,7 @@
   "authors": [
   "ClearCode (http://clearcode.cc)"
 ],
+"homepage" : "http://plnkr.co/edit/sDtkpDtu2ELTnCjEh5Nw?p=preview",
   "version": "1.0.0",
   "main": "Capitalize.js",
   "ignore": [
