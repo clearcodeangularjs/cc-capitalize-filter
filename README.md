@@ -5,7 +5,7 @@ Filters that capitalize first word.
 
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-capitalize-filter --save ``` 
 
 
 Usage
